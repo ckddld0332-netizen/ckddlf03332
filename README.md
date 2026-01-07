@@ -2,6 +2,10 @@
 
 ## [수정된 전체 프로세스 WBS: ESG GraphRAG Pipeline]
 
+
+# neo4j_graphrag/retrievers /text2cypher 관련 프롬프트 링크
+# https://github.com/neo4j/neo4j-graphrag-python/blob/main/src/neo4j_graphrag/retrievers/text2cypher.py
+
 ### **Phase 1. Knowledge Graph 구축 (Data Engineering)**
 
 ### **Step 1. 데이터 준비 (Input Layer)**
